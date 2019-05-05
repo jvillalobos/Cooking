@@ -28,6 +28,7 @@ This is a variant of a common Costa Rican dessert, itself a variant of the [mill
 10. Carefully assemble the pie by placing a cooked wafer, spreading dulce de leche on top, and finally sprinkling sliced almonds. Repeat the process for all layers.
 
 ## Notes
+* I totally forgot to measure the almonds, so I don't know how accurate the amount is. Also, it might be better for stability to not put almonds on every layer.
 * It's easier to serve the pie after putting it in the refrigerator for a couple of hours. The humidity of the refrigerator and the dulce de leche help consolidate the layers.
 * The cooked wafers are very delicate, so be careful when putting them together.
 * To roll out the discs, I put them between two sheets of parchment or wax paper and then use a rolling pin. After getting the right size, I carefully remove one of the papers, put it back on loosely, flip the disc with both papers, and carefully remove the second paper. Finally, I cut around the disc on one of the papers to use for baking.
