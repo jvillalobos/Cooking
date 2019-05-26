@@ -11,7 +11,7 @@ This is a variant of a common Costa Rican dessert, itself a variant of the [mill
 * 7 g sugar
 * 0.9 g (1/4 tsp.) almond extract
 * 40 g white wine
-* 250 g [dulce de leche](https://en.wikipedia.org/wiki/Dulce_de_leche)
+* 350 g [dulce de leche](https://en.wikipedia.org/wiki/Dulce_de_leche)
 * 65 g sliced almonds
 
 ## Procedure
