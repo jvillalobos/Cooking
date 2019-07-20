@@ -5,12 +5,12 @@ This recipe is based on [this recipe by Cultures for Health](https://www.culture
 ## Ingredients
 
 * 200 g sourdough starter (50% water)
-* 300 g all purpose flour
-* 200 g warm water
-* 60 g unsalted butter
-* 70 g maple syrup
-* 70 g brown sugar
-* 3 g salt
+* 360 g all purpose flour
+* 240 g warm water
+* 72 g unsalted butter
+* 80 g maple syrup
+* 120 g brown sugar
+* 4 g salt
 * 2.5 g (1/2 tsp.) baking soda
 * 2 g (1/2 tsp.) vanilla extract
 * 2 eggs
@@ -18,7 +18,7 @@ This recipe is based on [this recipe by Cultures for Health](https://www.culture
 
 ## Procedure
 
-1. Combine the starter, water, and flour in a medium bowl for a few minutes.
+1. Combine the starter, water, and flour in a medium bowl and mix for a few minutes.
 2. Cover and leave on the countertop for a few hours, or overnight.
 3. Melt the butter.
 4. Whisk the remaining ingredients together.
