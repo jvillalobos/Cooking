@@ -1,17 +1,16 @@
-# Sourdough Cheese Doughnuts (Papanasi)
+# Sourdough Cheese Doughnuts (Papanasi) - Costa Rican version
 
 This recipe is based on [this recipe by Where is My Spoon](https://whereismyspoon.co/romanian-cheese-doughnuts-papanasi/).
 
 ## Ingredients
 
 * 200 g sourdough starter (50% water)
-* 500 g cottage cheese or cream cheese, drained
+* 500 g Turrialba cheese, grated and drained
 * 2 eggs
 * 50 g / 60 ml rum
 * 2 g (1/2 tsp.) vanilla extract
 * 2.5 g (1/2 tsp.) baking soda
-* 90 g granulated sugar
-* 4 g salt
+* 110 g granulated sugar
 * 380 g all-purpose flour
 * Frying oil
 * (Optional) 250 g smetana or crème fraiche to serve. I've used and and enjoyed [this recipe](https://petersfoodadventures.com/2018/08/10/homemade-sour-cream/) for smetana.
@@ -19,7 +18,7 @@ This recipe is based on [this recipe by Where is My Spoon](https://whereismyspoo
 
 ## Procedure
 
-1. With an immersion blender, blend together the cheese, eggs, rum, vanilla extract, baking soda, sugar, and salt.
+1. With an immersion blender, blend together the cheese, eggs, rum, vanilla extract, baking soda, and sugar.
 2. In a bowl, combine the cheese mixture with the flour and starter.
 3. Knead with a mixer or a wooden spoon. The dough will be very sticky.
 4. Move back to a bowl and ferment overnight.
