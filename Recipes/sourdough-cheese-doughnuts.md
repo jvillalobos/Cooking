@@ -26,7 +26,7 @@ This recipe is based on [this recipe by Where is My Spoon](https://whereismyspoo
 6. Divide the dough into 12 balls.
 7. Form the doughnuts by rolling the balls into tubes and joining them at the ends.
 8. Cover and let rest for another hour.
-9. Heat the frying oil in a deep pot to 350 F / 180 C.
+9. Heat the frying oil in a deep pot to 325 F / 160 C.
 10. Fry the doughnuts in batches, ensuring the oil is back at the right temperature before starting a new batch. Fry each batch for about 4 minutes, turning them around a few times.
 11. Take the cooked doughnuts out and allow them to cool slightly and drain before serving.
 
