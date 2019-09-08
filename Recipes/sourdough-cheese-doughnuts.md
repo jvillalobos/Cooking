@@ -26,9 +26,12 @@ This recipe is based on [this recipe by Where is My Spoon](https://whereismyspoo
 6. Divide the dough into 12 balls.
 7. Form the doughnuts by rolling the balls into tubes and joining them at the ends.
 8. Cover and let rest for another hour.
-9. Heat the frying oil in a deep pot to 325 F / 160 C.
-10. Fry the doughnuts in batches, ensuring the oil is back at the right temperature before starting a new batch. Fry each batch for about 4 minutes, turning them around a few times.
+9. Heat the frying oil in a deep pot to 300 F / 150 C.
+10. Fry the doughnuts in batches, ensuring the oil is back at the right temperature before starting a new batch. Fry each batch for about 7 minutes, turning them around a few times.
 11. Take the cooked doughnuts out and allow them to cool slightly and drain before serving.
+
+## Variants
+* Ginger doughnuts: add 20 g (1 tbsp.) grated ginger and optionally replace the rum with Cointreau.
 
 ## Notes
 * For a more traditional version of the recipe, don't blend the cheese entirely, leaving some cheese lumps in the dough. Also, divide one of the 12 balls into 11 smaller balls that are also fried and served on top of each doughnut.
