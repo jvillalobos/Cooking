@@ -32,4 +32,7 @@ This is a slight variation on [this recipe](https://www.facebook.com/jamieoliver
 13. Remove from heat.
 
 ## Notes
+
+* This sauce is fairly hot on its own, so seeding the peppers is probably a good idea.
+* For a smoother sauce, use a fine mesh sieve or cheesecloth to filter it.
 * Use sterile canning jars  for a longer shelf life. Freezing also seems to work well.
