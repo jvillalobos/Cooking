@@ -14,7 +14,7 @@ This recipe is based on [this recipe by Where is My Spoon](https://whereismyspoo
 * 4 g salt
 * 380 g all-purpose flour
 * Frying oil
-* (Optional) 250 g smetana or crème fraiche to serve. I've used and and enjoyed [this recipe](https://petersfoodadventures.com/2018/08/10/homemade-sour-cream/) for smetana.
+* (Optional) 250 g smetana or crème fraiche to serve. I've used and enjoyed [this recipe](https://petersfoodadventures.com/2018/08/10/homemade-sour-cream/) for smetana.
 * (Optional) Whole fruit runny blueberry jam to serve (or sour cherry, blackberry, black currants jam).
 
 ## Procedure
