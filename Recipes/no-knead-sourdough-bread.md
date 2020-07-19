@@ -20,5 +20,5 @@ This recipe is based on [this recipe by Sam Sifton](https://cooking.nytimes.com/
 7. Lightly dust with additional flour, cover and allow to double in size, about 2 hours.
 8. Preheat oven to 450 F / 250 C.
 8. Place a covered enamel Dutch oven or heavy pot with a lid into the oven and allow it to heat for 30 minutes or so. Remove the pot from the oven, take off its top, and carefully invert the risen dough into it, so that the seam side is now facing up. (Alternately you can invert the risen dough onto a flour-dusted sheet of parchment paper and lower your loaf into your pot that way.). Put the top back on the pot and return it to the oven.
-9. Bake for about 45 minutes, then take the top off the pot and allow it to continue to cook until it is brown and crusty all over, an additional 15 minutes or so.
+9. Bake for about 45 minutes, then take the top off the pot and allow it to continue to cook until it is brown and crusty all over, an additional 10 minutes or so.
 10. Remove from the oven and put the loaf on a rack to cool for at least 30 minutes before serving.
