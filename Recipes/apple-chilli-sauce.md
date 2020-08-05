@@ -7,7 +7,7 @@ This is a slight variation on [this recipe](https://www.facebook.com/jamieoliver
 * 100 g Scotch bonnet peppers (about 10 peppers), optionally seeded
 * 10 g garlic
 * 400 g yellow onion, roughly chopped
-* 760 g plug tomatoes, roughly chopped
+* 760 g plum tomatoes, roughly chopped
 * 150 ml apple cider vinegar
 * 250 ml apple juice
 * 13 g (2 tsp.) salt, plus more to taste
