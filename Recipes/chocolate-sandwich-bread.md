@@ -22,7 +22,7 @@ This recipe is based on [this recipe by David Lebovitz](https://www.davidlebovit
 1. Combine water, unsalted butter, and milk in a pot over low heat, whisking occasionally, until the butter melts and the milk is fully blended.
 2. Cool to room temperature.
 3. Lightly coat a loaf pan with cooking spray or wipe it with oil, and then dust the pan with flour.
-4. Combine half the flour with all the sugar, salt, baking soda, and starter.
+4. Combine half the flour with all the sugar, cocoa powder, salt, baking soda, and starter.
 5. Mix manually or using a mixer with a dough hook. Gradually add the milk mixture.
 6. Gradually mix the remaining flour until it is fully incorporated.
 7. Knead for 8 minutes.
